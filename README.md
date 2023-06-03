@@ -6,11 +6,9 @@ These are published by the IMA, and I am but a lowly code monkey that attempts t
 Please feel free to put in pull requests, or raise issues.
 So far: 
 
-+-----------+-----------+
 | Enigmaths: | Date:    |
-+=======================+
-|197|24/02/2023|
-|203|07/12/2022|
-|205|09/04/2023|
-|206|03/05/2023|
-+---------------+
+|:----------:|----------|
+| 197        |24/02/2023|
+| 203        |07/12/2022|
+| 205        |09/04/2023|
+| 206        |03/05/2023|
